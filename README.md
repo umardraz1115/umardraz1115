@@ -6,8 +6,8 @@
 
 I'm a passionate developer specializing in web development, JavaScript frameworks, and modern technologies. I love solving problems and creating elegant, user-friendly applications.
 
-- 🌱 Currently learning **React, Tailwind CSS, and WordPress**
-- 💻 Working on a **Project Management System** and a **WooCommerce-based WordPress project**
+- 🌱 Currently learning **React and Tailwind CSS**
+- 💻 Working on a **Project Management System**
 - 🎯 Goals: Master front-end development and explore **full-stack** solutions
 - ⚡ Fun fact: I enjoy balancing design aesthetics and code functionality
 
@@ -18,9 +18,6 @@ I'm a passionate developer specializing in web development, JavaScript framework
 ### 📋 [Project Management System](https://github.com/yourusername/project-management-system)
 A React + Tailwind CSS project that allows users to add, manage, and view project details interactively.
 
-### 🌐 [WooCommerce Hybrid Battery Store](https://github.com/yourusername/hybrid-battery-store)
-A WordPress project leveraging WooCommerce for building an e-commerce platform for hybrid batteries.
-
 ### 📊 [Investment Calculator](https://github.com/yourusername/investment-calculator)
 A React.js application that simplifies financial planning by calculating returns based on user inputs.
 
@@ -29,10 +26,22 @@ A React.js application that simplifies financial planning by calculating returns
 ## 🛠️ Tech Stack
 
 ### 🌟 Languages & Tools
-- **Programming Languages:** HTML, CSS, JavaScript, C++
-- **Libraries & Frameworks:** React.js, Tailwind CSS, Bootstrap
-- **CMS:** WordPress
-- **Tools:** Git, VS Code, Code::Blocks
+
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🌟 Libraries & Frameworks
+
+- **React.js**
+- **Tailwind CSS**
+
+### 🌟 Tools
+
+- **Git**
+- **VS Code**
+- **Code::Blocks**
 
 ---
 
