@@ -1,75 +1,40 @@
-# 👋 Hey, I'm **Muhammad Umar Draz**
-![Header](https://media.giphy.com/media/qg8P1MQokvTf2/giphy.gif)
-
----
-
-## 🚀 About Me
+# 👋 Hi, I'm **Muhammad Umar Draz**
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&width=435&lines=Passionate+Full-Stack+Developer;Building+Modern+and+Elegant+Solutions)
 
-I’m a passionate developer specializing in **web, mobile, and game development**.  
-I love creating clean, maintainable, and user-friendly applications.
+---
 
-- 🌱 Currently mastering **React**, **Tailwind**, and **Node.js**  
-- 💻 Building a **Project Management System**  
-- 🎯 Goal: Build full-stack, cross-platform, highly interactive apps  
-- ⚡ Fun Fact: I love exploring new technologies and creating seamless user experiences!
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👇 **Languages**
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/1199/1199113.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/2269/2269995.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/1945/1945805.png" title="Dart" alt="Dart" width="50" height="50"/>
-</p>
-
-### 🎨 **UI Frameworks & Libraries**
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/13757/13757822.png" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" title="ReactJS" alt="ReactJS" width="50" height="50"/>
-</p>
-
-### ⚡️ **Back End**
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" title="Express.js" alt="Express.js" width="50" height="50"/>
-</p>
-
-### 🗄️ **Databases**
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/919/919838.png" title="Oracle" alt="Oracle" width="50" height="50"/>
-</p>
-
-### 📱 **Mobile & Game Development**
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/11295/11295127.png" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968883.png" title="Unity" alt="Unity" width="50" height="50"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=umardraz2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=umardraz2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umardraz2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let’s Connect
-- 🌐 [Portfolio](https://yourportfolio.com)  
-- 📧 Email: [umar@example.com](mailto:umar@example.com)  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-> 🌟 "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-Thank you for visiting! ✨  
-Happy Coding! 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
