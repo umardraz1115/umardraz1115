@@ -4,8 +4,8 @@
 <div>
   
 <h1>👋 Hi, I'm <strong>Muhammad Umar Draz</strong></h1>
-<h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&left=true&vLeft=true&width=500&height=50&duration=4000&lines=Android+App+Developer;+Web+Developer;+Game+Developer">
+<h3> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=5000&vLeft=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Explore+various+repos!;Web,+App,+Game+and+More">
 </h3>
 </div>
 
@@ -15,10 +15,13 @@
 <ul>
   <li>🔭 Currently working on <strong>Game Development</strong></li>
   <li>🌱 Currently learning <strong>Unity</strong></li>
-  <li>💬 All of my projects are available at <strong> [My Repositories](https://github.com/umardraz2004?tab=repositories) </strong></li>
-  <li>📫 Reach me at <a href="mailto:umardaraz2925@gmail.com">umardaraz2925@gmail.com</a></li>
+  <li>👩🏻‍💻 All of my projects are available at 
+    <strong><a href="https://github.com/umardraz2004?tab=repositories">My Repositories</a></strong>
+  </li>
+  <li>📫 Reach me at <a href="mailto:umardraz6965@gmail.com">Contact us</a></li>
   <li>⚡ Fun fact: <strong>It's only 0 or 1</strong></li>
 </ul>
+
 <!-- =========================================================== -->
 <!-- 💻 TECH STACK 💻 --> 
 <!-- =========================================================== -->
