@@ -1,24 +1,24 @@
 <!-- =========================================================== -->
-<!-- 👋 HEADER 👋 -->
+<!-- 👋 HEADER 👋 --> 
 <!-- =========================================================== -->
+<div>
+  
 <h1>👋 Hi, I'm <strong>Muhammad Umar Draz</strong></h1>
+<h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&left=true&vLeft=true&width=500&height=50&duration=4000&lines=Android+App+Developer;+Web+Developer;+Game+Developer">
+</h3>
+</div>
 
 <!-- =========================================================== -->
-<!-- 👇 INFO 👇 -->
+<!-- 👇 INFO 👇 --> 
 <!-- =========================================================== -->
 <ul>
-  <li>🔭 Currently working on 
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=12&vLeft=true&width=120&height=16&duration=4000&lines=Android+App+Developer;+Web+Developer;+Game+Developer" 
-      alt="Typing roles" />
-  </li>
-  <li>🌱 Currently learning <strong>Node.js</strong></li>
-  <li>👯 Looking to collaborate on <strong>Website Projects</strong></li>
-  <li>💬 Ask me about <strong>Web Development</strong></li>
+  <li>🔭 Currently working on <strong>Game Development</strong></li>
+  <li>🌱 Currently learning <strong>Unity</strong></li>
+  <li>💬 All of my projects are available at <strong> [My Repositories](https://github.com/umardraz2004?tab=repositories) </strong></li>
   <li>📫 Reach me at <a href="mailto:umardaraz2925@gmail.com">umardaraz2925@gmail.com</a></li>
-  <li>⚡ Fun fact: It's only 0 or 1</li>
+  <li>⚡ Fun fact: <strong>It's only 0 or 1</strong></li>
 </ul>
-
 <!-- =========================================================== -->
 <!-- 💻 TECH STACK 💻 --> 
 <!-- =========================================================== -->
@@ -87,14 +87,14 @@
 <h2> 📊 GitHub Stats </h2>
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=umardraz2004&theme=tokyonight&hide_border=false)
+![Streak Stats](https://streak-stats.demolab.com?user=umardraz2004&theme=tokyonight&hide_border=false)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umardraz2004&layout=compact&theme=tokyonight)
 
 </div>
 
 <!-- =========================================================== -->
-<!-- 🌐 CONNECT WITH ME 🌐 -->
+<!-- 🌐 CONNECT WITH ME 🌐 --> 
 <!-- =========================================================== -->
 <h2 style="border-bottom: 0px">🌐 Connect with Me:</h2>
 
