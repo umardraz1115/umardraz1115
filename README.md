@@ -85,9 +85,9 @@
 <!-- =========================================================== -->
 <!-- 🌐 CONNECT WITH ME 🌐 --> 
 <!-- =========================================================== -->
-<h2 style="border-bottom: 0px">🌐 Connect with Me:</h2>
+<h2 style="border-bottom: 0">🌐 Connect with Me:</h2>
 
-<div style="display:flex; justify-content:space-between;">
+<div >
 <!-- 👇 LinkedIn Badge -->
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
