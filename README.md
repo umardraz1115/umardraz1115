@@ -101,6 +101,7 @@
 <!-- =========================================================== -->
 <h2 style="border-bottom: 0px">🌐 Connect with Me:</h2>
 
+<div>
 <!-- 👇 LinkedIn Badge -->
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
@@ -109,5 +110,6 @@
 
 <!-- 🌐 Portfolio Badge -->
 <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 <hr>
